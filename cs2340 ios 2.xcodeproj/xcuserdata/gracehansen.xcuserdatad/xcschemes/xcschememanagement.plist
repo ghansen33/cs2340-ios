@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MapIOS.xcscheme</key>
+		<key>cs2340 ios 2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A5DF0C5E218E84E40019E084</key>
+		<key>A54901DD21B3255E004F1F06</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A54901F121B3255E004F1F06</key>
 		<dict>
 			<key>primary</key>
 			<true/>
